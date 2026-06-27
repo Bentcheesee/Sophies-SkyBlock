@@ -1,5 +1,5 @@
 {
-	"parent": "firmskyblock:item/transylvanian__4",
+	"parent": "firmskyblock:item/transylvanian__0",
 	"textures": {
 		"layer2": "sophie:item/numlays/five"
 	}

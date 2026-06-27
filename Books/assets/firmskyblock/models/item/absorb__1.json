@@ -1,8 +1,6 @@
 {
-	"parent": "minecraft:item/generated",
+	"parent": "firmskyblock:item/absorb__0",
 	"textures": {
-		"layer0": "sophie:item/enchant_books/book_tools",
-		"layer1": "sophie:item/enchant_books/tools/absorb",
 		"layer2": "sophie:item/numlays/one"
 	}
 }

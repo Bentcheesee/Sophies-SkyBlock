@@ -1,5 +1,5 @@
 {
-	"parent": "firmskyblock:item/ultimate_bank__1",
+	"parent": "firmskyblock:item/ultimate_bank__0",
 	"textures": {
 		"layer2": "sophie:item/numlays/five"
 	}

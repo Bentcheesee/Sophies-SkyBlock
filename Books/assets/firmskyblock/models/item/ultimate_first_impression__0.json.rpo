@@ -1,0 +1,4 @@
+{
+	condition: "!foragingBooks",
+	fallback: "assets/firmskyblock/models/item/foraging/ultimate_first_impression__0.json"
+}
