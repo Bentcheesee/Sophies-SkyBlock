@@ -7,41 +7,55 @@
 				"threshold": 1,
 				"model": {
 					"type": "minecraft:model",
-					"model": "firmskyblock:item/efficiency__1"
+					"model": "firmskyblock:item/prosecute__1"
 				}
 			},
 			{
 				"threshold": 2,
 				"model": {
 					"type": "minecraft:model",
-					"model": "firmskyblock:item/efficiency__2"
+					"model": "firmskyblock:item/prosecute__2"
 				}
 			},
 			{
 				"threshold": 3,
 				"model": {
 					"type": "minecraft:model",
-					"model": "firmskyblock:item/efficiency__3"
+					"model": "firmskyblock:item/prosecute__3"
 				}
 			},
 			{
 				"threshold": 4,
 				"model": {
 					"type": "minecraft:model",
-					"model": "firmskyblock:item/efficiency__4"
+					"model": "firmskyblock:item/prosecute__4"
 				}
 			},
 			{
 				"threshold": 5,
 				"model": {
 					"type": "minecraft:model",
-					"model": "firmskyblock:item/efficiency__5"
+					"model": "firmskyblock:item/prosecute__5"
+				}
+			},
+			{
+				"threshold": 6,
+				"model": {
+					"type": "minecraft:model",
+					"model": "firmskyblock:item/prosecute__6"
+				}
+			},
+			{
+				"threshold": 7,
+				"model": {
+					"type": "minecraft:model",
+					"model": "firmskyblock:item/prosecute__7"
 				}
 			}
 		],
 		"fallback": {
 			"type": "minecraft:model",
-			"model": "firmskyblock:item/efficiency__0"
+			"model": "firmskyblock:item/prosecute__0"
 		}
 	}
 }

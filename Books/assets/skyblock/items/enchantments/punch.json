@@ -7,34 +7,27 @@
 				"threshold": 1,
 				"model": {
 					"type": "minecraft:model",
-					"model": "firmskyblock:item/fortune__1"
+					"model": "firmskyblock:item/punch__1"
 				}
 			},
 			{
 				"threshold": 2,
 				"model": {
 					"type": "minecraft:model",
-					"model": "firmskyblock:item/fortune__2"
+					"model": "firmskyblock:item/punch__2"
 				}
 			},
 			{
 				"threshold": 3,
 				"model": {
 					"type": "minecraft:model",
-					"model": "firmskyblock:item/fortune__3"
-				}
-			},
-			{
-				"threshold": 4,
-				"model": {
-					"type": "minecraft:model",
-					"model": "firmskyblock:item/fortune__4"
+					"model": "firmskyblock:item/punch__3"
 				}
 			}
 		],
 		"fallback": {
 			"type": "minecraft:model",
-			"model": "firmskyblock:item/fortune__0"
+			"model": "firmskyblock:item/punch__0"
 		}
 	}
 }
