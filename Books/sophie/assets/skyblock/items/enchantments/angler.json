@@ -7,7 +7,7 @@
 				"threshold": 1,
 				"model": {
 					"type": "minecraft:model",
-					"model": "firmskyblock:item/angler__0"
+					"model": "firmskyblock:item/angler__1"
 				}
 			},
 			{

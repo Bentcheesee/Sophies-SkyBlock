@@ -1,6 +1,8 @@
 {
-	"parent": "firmskyblock:item/execute__0",
+	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer2": "sophie:item/numlays/one"
+		"layer0": "sophie:item/enchant_books/book_weaponry",
+		"layer1": "sophie:item/enchant_books/weaponry/execute",
+		"layer2": "sophie:item/numlays/empty"
 	}
 }

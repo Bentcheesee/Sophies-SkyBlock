@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer2": "sophie:item/numlays/empty"
+	}
+}
