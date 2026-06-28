@@ -1,0 +1,82 @@
+{
+	"model": {
+		"type": "minecraft:range_dispatch",
+		"property": "catharsis:enchanted_book_level",
+		"entries": [
+			{
+				"threshold": 1,
+				"model": {
+					"type": "minecraft:model",
+					"model": "firmskyblock:item/ultimate_missile__1"
+				}
+			},
+			{
+				"threshold": 2,
+				"model": {
+					"type": "minecraft:model",
+					"model": "firmskyblock:item/ultimate_missile__2"
+				}
+			},
+			{
+				"threshold": 3,
+				"model": {
+					"type": "minecraft:model",
+					"model": "firmskyblock:item/ultimate_missile__3"
+				}
+			},
+			{
+				"threshold": 4,
+				"model": {
+					"type": "minecraft:model",
+					"model": "firmskyblock:item/ultimate_missile__4"
+				}
+			},
+			{
+				"threshold": 5,
+				"model": {
+					"type": "minecraft:model",
+					"model": "firmskyblock:item/ultimate_missile__5"
+				}
+			},
+			{
+				"threshold": 6,
+				"model": {
+					"type": "minecraft:model",
+					"model": "firmskyblock:item/ultimate_missile__6"
+				}
+			},
+			{
+				"threshold": 7,
+				"model": {
+					"type": "minecraft:model",
+					"model": "firmskyblock:item/ultimate_missile__7"
+				}
+			},
+			{
+				"threshold": 8,
+				"model": {
+					"type": "minecraft:model",
+					"model": "firmskyblock:item/ultimate_missile__8"
+				}
+			},
+			{
+				"threshold": 9,
+				"model": {
+					"type": "minecraft:model",
+					"model": "firmskyblock:item/ultimate_missile__9"
+				}
+			},
+			{
+				"threshold": 10,
+				"model": {
+					"type": "minecraft:model",
+					"model": "firmskyblock:item/ultimate_missile__10"
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "firmskyblock:item/ultimate_missile__0"
+		}
+	}
+}

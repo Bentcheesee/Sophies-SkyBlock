@@ -1,5 +1,5 @@
 {
-	"parent": "firmskyblock:item/sunder__1",
+	"parent": "firmskyblock:item/sunder__0",
 	"textures": {
 		"layer2": "sophie:item/numlays/two"
 	}

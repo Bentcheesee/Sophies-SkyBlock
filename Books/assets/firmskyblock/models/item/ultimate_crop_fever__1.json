@@ -1,8 +1,6 @@
 {
-	"parent": "minecraft:item/generated",
+	"parent": "firmskyblock:item/ultimate_crop_fever__0",
 	"textures": {
-		"layer0": "sophie:item/enchant_books/book_farming",
-		"layer1": "sophie:item/enchant_books/farming/ulti_crop_fever",
 		"layer2": "sophie:item/numlays/one"
 	}
 }

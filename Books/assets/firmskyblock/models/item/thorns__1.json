@@ -1,8 +1,6 @@
 {
-	"parent": "minecraft:item/generated",
+	"parent": "firmskyblock:item/thorns__0",
 	"textures": {
-		"layer0": "sophie:item/enchant_books/book_armor",
-		"layer1": "sophie:item/enchant_books/armor/thorns",
 		"layer2": "sophie:item/numlays/one"
 	}
 }

@@ -1,5 +1,5 @@
 {
-	"parent": "firmskyblock:item/overload__1",
+	"parent": "firmskyblock:item/overload__0",
 	"textures": {
 		"layer2": "sophie:item/numlays/two"
 	}

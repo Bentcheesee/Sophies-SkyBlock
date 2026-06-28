@@ -1,5 +1,5 @@
 {
-	"parent": "firmskyblock:item/respiration__1",
+	"parent": "firmskyblock:item/respiration__0",
 	"textures": {
 		"layer2": "sophie:item/numlays/four"
 	}

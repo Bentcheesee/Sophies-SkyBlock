@@ -1,5 +1,5 @@
 {
-	"parent": "firmskyblock:item/pesterminator__1",
+	"parent": "firmskyblock:item/pesterminator__0",
 	"textures": {
 		"layer2": "sophie:item/numlays/three"
 	}

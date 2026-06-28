@@ -1,8 +1,6 @@
 {
-	"parent": "minecraft:item/generated",
+	"parent": "firmskyblock:item/harvesting__0",
 	"textures": {
-		"layer0": "sophie:item/enchant_books/book_farming",
-		"layer1": "sophie:item/enchant_books/farming/harvesting",
 		"layer2": "sophie:item/numlays/one"
 	}
 }

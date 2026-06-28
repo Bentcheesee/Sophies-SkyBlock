@@ -1,8 +1,6 @@
 {
-	"parent": "minecraft:item/generated",
+	"parent": "firmskyblock:item/projectile_protection__0",
 	"textures": {
-		"layer0": "sophie:item/enchant_books/book_armor",
-		"layer1": "sophie:item/enchant_books/armor/prot_proj",
 		"layer2": "sophie:item/numlays/one"
 	}
 }

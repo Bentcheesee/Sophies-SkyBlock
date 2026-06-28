@@ -1,8 +1,6 @@
 {
-	"parent": "minecraft:item/generated",
+	"parent": "firmskyblock:item/ultimate_no_pain_no_gain__0",
 	"textures": {
-		"layer0": "sophie:item/enchant_books/book_armor",
-		"layer1": "sophie:item/enchant_books/armor/ulti_no_pain",
 		"layer2": "sophie:item/numlays/one"
 	}
 }

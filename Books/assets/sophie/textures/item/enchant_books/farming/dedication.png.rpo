@@ -1,4 +1,4 @@
 {
-    condition: "animatedTextures",
-    fallback: "assets/sophie/textures/item/enchant_books/farming/dedication_alt.png"
+	condition: "animatedTextures",
+	fallback: "assets/sophie/textures/item/enchant_books/farming/dedication_alt.png"
 }
