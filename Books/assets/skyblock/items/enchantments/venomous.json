@@ -44,6 +44,13 @@
 					"type": "minecraft:model",
 					"model": "firmskyblock:item/venomous__6"
 				}
+			},
+			{
+				"threshold": 7,
+				"model": {
+					"type": "minecraft:model",
+					"model": "firmskyblock:item/venomous__7"
+				}
 			}
 		],
 		"fallback": {

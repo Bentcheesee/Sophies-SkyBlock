@@ -37,6 +37,13 @@
 					"type": "minecraft:model",
 					"model": "firmskyblock:item/scavenger__5"
 				}
+			},
+			{
+				"threshold": 6,
+				"model": {
+					"type": "minecraft:model",
+					"model": "firmskyblock:item/scavenger__6"
+				}
 			}
 		],
 		"fallback": {
