@@ -1,4 +1,4 @@
 {
 	condition: "!foragingBooks",
-	fallback: "assets/firmskyblock/models/item/foraging/arcane__0.json"
+	fallback: "assets/firmskyblock/models/item/foraging/arcane.json"
 }

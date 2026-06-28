@@ -3,6 +3,6 @@
 	"textures": {
 		"layer0": "sophie:item/enchant_books/book_tools",
 		"layer1": "sophie:item/enchant_books/tools/smelting_touch",
-		"layer2": "sophie:item/numlays/one"
+		"layer2": "sophie:item/numlays/empty"
 	}
 }

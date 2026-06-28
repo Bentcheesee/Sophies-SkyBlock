@@ -3,6 +3,6 @@
 	"textures": {
 		"layer0": "sophie:item/enchant_books/book_fishing",
 		"layer1": "sophie:item/enchant_books/fishing/piscary",
-		"layer2": "sophie:item/numlays/one"
+		"layer2": "sophie:item/numlays/empty"
 	}
 }
