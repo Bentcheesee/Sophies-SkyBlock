@@ -37,41 +37,6 @@
 					"type": "minecraft:model",
 					"model": "firmskyblock:item/ultimate_missile__5"
 				}
-			},
-			{
-				"threshold": 6,
-				"model": {
-					"type": "minecraft:model",
-					"model": "firmskyblock:item/ultimate_missile__6"
-				}
-			},
-			{
-				"threshold": 7,
-				"model": {
-					"type": "minecraft:model",
-					"model": "firmskyblock:item/ultimate_missile__7"
-				}
-			},
-			{
-				"threshold": 8,
-				"model": {
-					"type": "minecraft:model",
-					"model": "firmskyblock:item/ultimate_missile__8"
-				}
-			},
-			{
-				"threshold": 9,
-				"model": {
-					"type": "minecraft:model",
-					"model": "firmskyblock:item/ultimate_missile__9"
-				}
-			},
-			{
-				"threshold": 10,
-				"model": {
-					"type": "minecraft:model",
-					"model": "firmskyblock:item/ultimate_missile__10"
-				}
 			}
 		],
 		"fallback": {
