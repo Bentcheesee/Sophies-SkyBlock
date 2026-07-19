@@ -4,14 +4,14 @@
 		"property": "catharsis:enchanted_book_level",
 		"entries": [
 			{
-				"threshold": 5,
+				"threshold": 4,
 				"model": {
 					"type": "minecraft:model",
 					"model": "firmskyblock:item/transylvanian__4"
 				}
 			},
 			{
-				"threshold": 4,
+				"threshold": 5,
 				"model": {
 					"type": "minecraft:model",
 					"model": "firmskyblock:item/transylvanian__5"
