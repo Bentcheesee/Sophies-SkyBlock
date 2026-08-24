@@ -9,6 +9,41 @@
 					"type": "minecraft:model",
 					"model": "firmskyblock:item/stealth__1"
 				}
+			},
+			{
+				"threshold": 2,
+				"model": {
+					"type": "minecraft:model",
+					"model": "firmskyblock:item/stealth__2"
+				}
+			},
+			{
+				"threshold": 3,
+				"model": {
+					"type": "minecraft:model",
+					"model": "firmskyblock:item/stealth__3"
+				}
+			},
+			{
+				"threshold": 4,
+				"model": {
+					"type": "minecraft:model",
+					"model": "firmskyblock:item/stealth__4"
+				}
+			},
+			{
+				"threshold": 5,
+				"model": {
+					"type": "minecraft:model",
+					"model": "firmskyblock:item/stealth__5"
+				}
+			},
+			{
+				"threshold": 5,
+				"model": {
+					"type": "minecraft:model",
+					"model": "firmskyblock:item/stealth__6"
+				}
 			}
 		],
 		"fallback": {
