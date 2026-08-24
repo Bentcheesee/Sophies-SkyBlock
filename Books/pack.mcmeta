@@ -4,11 +4,11 @@
 		"supported_formats": [64,900],
 		"min_format": 64,
 		"max_format": 900,
-		"description":"§cI love vamping\n§eBooks by §bBentcheesee"
+		"description":"§cHelixer Fixer\n§eBooks by §bBentcheesee"
 	},
 	"resource_pack_id": "SOPHIE_BOOKS",
 	"catharsis:pack/v1": {
 		"id": "sophie_books",
-		"version": "2.0.0"
+		"version": "2.1.0"
 	}
 }
