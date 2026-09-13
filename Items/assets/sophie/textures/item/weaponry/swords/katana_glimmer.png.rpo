@@ -1,0 +1,4 @@
+{
+    condition: "animatedGlimmers",
+    fallback: "assets/sophie/textures/item/weaponry/swords/katana_glimmerless.png"
+}

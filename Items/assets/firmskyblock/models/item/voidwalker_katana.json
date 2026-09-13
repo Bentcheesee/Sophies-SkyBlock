@@ -1,0 +1,6 @@
+{
+	"parent": "firmskyblock:item/templates/katana",
+	"textures": {
+		"layer0": "sophie:item/weaponry/swords/katana_voidwalker"
+	}
+}

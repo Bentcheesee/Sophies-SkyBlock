@@ -1,0 +1,7 @@
+{
+	"parent": "firmskyblock:item/templates/katana",
+	"textures": {
+		"layer0": "sophie:item/weaponry/swords/katana_voidedge_alt",
+		"layer1": "sophie:item/weaponry/swords/katana_glimmer"
+	}
+}

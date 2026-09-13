@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/bow",
+	"textures": {
+		"layer0": "sophie:item/weaponry/bows/ender_bow_1"
+	}
+}

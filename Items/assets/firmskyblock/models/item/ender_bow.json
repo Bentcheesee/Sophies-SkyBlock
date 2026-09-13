@@ -1,0 +1,26 @@
+{
+	"parent": "minecraft:item/bow",
+	"textures": {
+		"layer0": "sophie:item/weaponry/bows/ender_bow"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"pulling": 1
+			},
+			"model": "firmskyblock:item/pulling_bows/ender_bow_1"
+		},
+		{
+			"predicate": {
+				"pulling": 2
+			},
+			"model": "firmskyblock:item/pulling_bows/ender_bow_2"
+		},
+		{
+			"predicate": {
+				"pulling": 3
+			},
+			"model": "firmskyblock:item/pulling_bows/ender_bow_3"
+		}
+	]
+}

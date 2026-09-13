@@ -1,0 +1,4 @@
+{
+    condition: "animatedTextures",
+    fallback: "assets/sophie/textures/item/tools/axes_farming/pumpkin_dicer_3_flat.png"
+}

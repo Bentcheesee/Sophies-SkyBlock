@@ -1,0 +1,19 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "builtin/generated",
+	"textures": {
+		"layer0": ".a_textures/gauntlet_gemless",
+		"layer1": ".a_textures/gauntlet_amethyst",
+		"layer2": ".a_textures/gauntlet_amber",
+		"layer3": ".a_textures/gauntlet_sapphire",
+		"layer4": ".a_textures/gauntlet_jade",
+		"layer5": ".a_textures/gauntlet_topaz"
+	},
+	"display": {
+		"firstperson_righthand": {
+			"rotation": [0, -47, 5],
+			"translation": [-2, 3.2, 1.13],
+			"scale": [1.02, 1.02, 1.02]
+		}
+	}
+}

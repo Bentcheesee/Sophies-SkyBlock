@@ -1,0 +1,4 @@
+{
+    condition: "animatedTextures",
+    fallback: "assets/sophie/textures/item/tools/pickaxes/pickonimbus_flat.png"
+}

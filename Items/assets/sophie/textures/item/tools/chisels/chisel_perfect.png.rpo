@@ -1,0 +1,4 @@
+{
+    condition: "animatedGlimmers",
+    fallback: "assets/sophie/textures/item/tools/chisels/chisel_perfect_glimmerless.png"
+}

@@ -1,0 +1,14 @@
+{
+	"parent": "minecraft:item/handheld_rod",
+	"textures": {
+		"layer0": "sophie:item/tools/fishing_rods/bingo_rod"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"cast": 1
+			},
+			"model": "firmskyblock:item/bingo_rod_cast"
+		}
+	]
+}

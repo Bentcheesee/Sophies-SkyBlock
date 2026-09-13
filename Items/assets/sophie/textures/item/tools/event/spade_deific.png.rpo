@@ -1,0 +1,4 @@
+{
+    condition: "animatedGlimmers",
+    fallback: "assets/sophie/textures/item/tools/event/spade_deific_glimmerless.png"
+}

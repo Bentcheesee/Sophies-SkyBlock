@@ -1,0 +1,14 @@
+{
+	"model": {
+		"type": "minecraft:condition",
+		"property": "fishing_rod/cast",
+		"on_true": {
+			"type": "minecraft:model",
+			"model": "firmskyblock:item/starter_lava_rod_cast"
+		},
+		"on_false": {
+			"type": "minecraft:model",
+			"model": "firmskyblock:item/starter_lava_rod"
+		}
+	}
+}

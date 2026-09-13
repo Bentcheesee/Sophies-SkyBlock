@@ -1,0 +1,4 @@
+{
+    condition: "animatedTextures",
+    fallback: "assets/sophie/textures/item/tools/pickaxes/stonk_flat.png"
+}

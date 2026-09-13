@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "sophie:item/general/iceberg_exp_bottle"
+	}
+}

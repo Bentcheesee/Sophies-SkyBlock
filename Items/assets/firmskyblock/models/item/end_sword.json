@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "sophie:item/weaponry/swords/end_sword"
+	}
+}

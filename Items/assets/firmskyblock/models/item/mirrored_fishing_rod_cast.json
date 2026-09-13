@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/handheld_rod",
+	"textures": {
+		"layer0": "sophie:item/general/rift/dor_gnihsif_cast"
+	}
+}

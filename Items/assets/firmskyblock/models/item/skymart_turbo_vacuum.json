@@ -1,0 +1,6 @@
+{
+	"parent": "firmskyblock:override/cuum",
+	"textures": {
+		"layer0": "sophie:item/tools/vacuums/skymart_turbo_vacuum"
+	}
+}

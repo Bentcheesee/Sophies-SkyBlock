@@ -1,0 +1,4 @@
+{
+    condition: "animatedGlimmers",
+    fallback: "assets/sophie/textures/item/tools/pickaxes/dungeonbreaker_glimmerless.png"
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "sophie:item/applications/art_of_peace"
+	}
+}

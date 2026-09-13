@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/handheld_rod",
+	"textures": {
+		"layer0": "sophie:item/tools/fishing_rods/rod_of_champions"
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"pack":{
+		"pack_format":64,
+		"supported_formats": [64,900],
+		"min_format": 64,
+		"max_format": 900,
+		"description":"§4Once again, I'm normal §7|§e Items by Bentcheesee"
+	},
+	"resource_pack_id": "SOPHIE_ITEMS",
+	"catharsis:pack/v1": {
+		"id": "sophie_items",
+		"version": "1.0.0"
+	}
+}

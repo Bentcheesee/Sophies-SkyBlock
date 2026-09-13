@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/hay_block",
+	"textures": {
+		"side": "sophie:item/general/farming/enchanted/hay_bale"
+	}
+}

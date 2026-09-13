@@ -1,0 +1,7 @@
+{
+    "rpo.SophieSkyblock": "§bSophie's SkyBlock",
+	"rpo.SophieSkyblock.animatedGlimmers": "§7Animated Glimmers",
+    "rpo.SophieSkyblock.animatedGlimmers.tooltip": "§7Items with §bglimmers §7(§6Perfect Chisels §7or §6Deific Spade§7) will no longer have them.",
+	"rpo.SophieSkyblock.animatedTextures": "§7Animated Textures",
+    "rpo.SophieSkyblock.animatedTextures.tooltip": "§7Animated textures are no longer be animated when set to §cfalse§7."
+}

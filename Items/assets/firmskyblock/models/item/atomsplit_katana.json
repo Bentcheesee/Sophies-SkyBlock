@@ -1,0 +1,16 @@
+{
+	"parent": "firmskyblock:item/templates/katana",
+	"textures": {
+		"layer0": "sophie:item/weaponry/swords/katana_atomsplit",
+		"layer1": "sophie:item/weaponry/swords/katana_glimmer",
+		"layer2": "sophie:item/weaponry/swords/katana_sparks"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"firmament:item": "minecraft:golden_sword"
+			},
+			"model": "firmskyblock:item/atomsplit_katana_alt"
+		}
+	]
+}

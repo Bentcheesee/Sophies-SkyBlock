@@ -1,0 +1,16 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "sophie:item/tools/pickaxes/mithril_pickaxe_refined"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"firmament:display_name": {
+					"regex": ".*Even More Refined.*"
+				}
+			},
+			"model": "firmskyblock:item/refined_mithril_pickaxe_stone_refined"
+		}
+	]
+}

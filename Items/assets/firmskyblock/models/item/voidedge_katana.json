@@ -1,0 +1,15 @@
+{
+	"parent": "firmskyblock:item/templates/katana",
+	"textures": {
+		"layer0": "sophie:item/weaponry/swords/katana_voidedge",
+		"layer1": "sophie:item/weaponry/swords/katana_glimmer"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"firmament:item": "minecraft:golden_sword"
+			},
+			"model": "firmskyblock:item/voidedge_katana_alt"
+		}
+	]
+}

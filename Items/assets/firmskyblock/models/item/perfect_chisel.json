@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "sophie:item/tools/chisels/chisel_perfect"
+	}
+}
