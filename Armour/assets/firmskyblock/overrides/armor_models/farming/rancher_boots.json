@@ -1,0 +1,31 @@
+{
+	"item_ids": [
+		"RANCHERS_BOOTS"
+	],
+	"layers": [
+		{
+			"identifier": "sophie:farming/rancher_boots"
+		},
+		{
+			"identifier": "sophie:farming/rancher_boots_overlay"
+		}
+	],
+	"overrides": [
+		{
+			"layers": [
+				{
+					"identifier": "sophie:farming/rancher_boots_dyed",
+					"tint": true
+				},
+				{
+					"identifier": "sophie:farming/rancher_boots_overlay"
+				}
+			],
+			"predicate": {
+				"firmament:lore": {
+					"regex": ".* Dyed"
+				}
+			}
+		}
+	]
+}

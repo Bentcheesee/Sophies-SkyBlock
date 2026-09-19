@@ -1,0 +1,15 @@
+{
+	"model": {
+		"type": "catharsis:texture",
+		"layers": [
+			"sophie:textures/entity/equipment/humanoid/combat/dragon_overlay.png",
+			"sophie:textures/entity/equipment/humanoid/combat/wise_dragon.png"
+		],
+		"tints": [
+			{
+				"type":"dye",
+				"default": -1
+			}
+		]
+	}
+}

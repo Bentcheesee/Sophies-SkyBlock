@@ -1,0 +1,16 @@
+{
+	"item_ids": [
+		"FARM_ARMOR_CHESTPLATE",
+		"FARM_ARMOR_LEGGINGS",
+		"FARM_ARMOR_BOOTS"
+	],
+	"layers": [
+		{
+			"identifier": "sophie:farming/farm_armour",
+			"tint": true
+		},
+		{
+			"identifier": "sophie:farming/farm_armour_overlay"
+		}
+	]
+}

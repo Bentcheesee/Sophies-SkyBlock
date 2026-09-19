@@ -1,0 +1,15 @@
+{
+	"model": {
+		"type": "catharsis:texture",
+		"layers": [
+			"sophie:textures/entity/equipment/humanoid/combat/dungeons/adaptive.png",
+			"sophie:textures/entity/equipment/humanoid/combat/dungeons/adaptive_star.png"
+		],
+		"tints": [
+			{
+				"type":"dye",
+				"default": -1
+			}
+		]
+	}
+}

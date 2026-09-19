@@ -1,0 +1,14 @@
+{
+	"item_ids": [
+		"LEATHER_HELMET",
+		"LEATHER_CHESTPLATE",
+		"LEATHER_LEGGINGS",
+		"LEATHER_BOOTS"
+	],
+	"layers": [
+		{
+			"identifier": "minecraft:leather",
+			"tint": true
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"model": {
+		"type": "catharsis:texture",
+		"layers": [
+			"sophie:textures/entity/equipment/humanoid/farming/farm_armour.png",
+			"sophie:textures/entity/equipment/humanoid/farming/farm_armour_overlay.png"
+		],
+		"tints": [
+			{
+				"type":"dye",
+				"default": -1
+			}
+		]
+	}
+}

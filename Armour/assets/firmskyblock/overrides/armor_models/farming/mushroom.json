@@ -1,0 +1,31 @@
+{
+	"item_ids": [
+		"MUSHROOM_HELMET",
+		"MUSHROOM_CHESTPLATE",
+		"MUSHROOM_LEGGINGS",
+		"MUSHROOM_BOOTS"
+	],
+	"layers": [
+		{
+			"identifier": "sophie:farming/mushroom"
+		}
+	],
+	"overrides": [
+		{
+			"layers": [
+				{
+					"identifier": "sophie:farming/mushroom_dyed",
+					"tint": true
+				},
+				{
+					"identifier": "sophie:farming/mushroom_dyed_overlay"
+				}
+			],
+			"predicate": {
+				"firmament:lore": {
+					"regex": ".* Dyed"
+				}
+			}
+		}
+	]
+}

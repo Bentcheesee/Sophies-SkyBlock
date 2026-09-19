@@ -1,0 +1,31 @@
+{
+	"item_ids": [
+		"RABBIT_HELMET",
+		"RABBIT_CHESTPLATE",
+		"RABBIT_LEGGINGS",
+		"RABBIT_BOOTS"
+	],
+	"layers": [
+		{
+			"identifier": "sophie:farming/rabbit"
+		}
+	],
+	"overrides": [
+		{
+			"layers": [
+				{
+					"identifier": "sophie:farming/rabbit_dyed",
+					"tint": true
+				},
+				{
+					"identifier": "sophie:farming/rabbit_dyed_overlay"
+				}
+			],
+			"predicate": {
+				"firmament:lore": {
+					"regex": ".* Dyed"
+				}
+			}
+		}
+	]
+}

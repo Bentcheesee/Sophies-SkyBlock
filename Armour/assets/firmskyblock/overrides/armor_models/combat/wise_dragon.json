@@ -1,0 +1,17 @@
+{
+	"item_ids": [
+		"WISE_DRAGON_CHESTPLATE",
+		"WISE_DRAGON_LEGGINGS",
+		"WISE_DRAGON_BOOTS"
+	],
+	"layers": [
+		{
+			"identifier": "sophie:combat/wise_dragon",
+			"tint": false
+		},
+		{
+			"identifier": "sophie:combat/dragon_overlay",
+			"tint": true
+		}
+	]
+}

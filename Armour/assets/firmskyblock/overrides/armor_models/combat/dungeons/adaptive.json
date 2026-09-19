@@ -1,0 +1,16 @@
+{
+	"item_ids": [
+		"ADAPTIVE_CHESTPLATE",
+		"ADAPTIVE_LEGGINGS",
+		"ADAPTIVE_BOOTS"
+	],
+	"layers": [
+		{
+			"identifier": "sophie:combat/dungeons/adaptive",
+			"tint": true
+		},
+		{
+			"identifier": "sophie:combat/dungeons/adaptive_overlay"
+		}
+	]
+}

@@ -1,0 +1,40 @@
+{
+	"item_ids": [
+		"DIVAN_CHESTPLATE",
+		"DIVAN_LEGGINGS",
+		"DIVAN_BOOTS"
+	],
+	"layers": [
+		{
+			"identifier": "sophie:mining/divan",
+			"tint": false
+		}
+	],
+	"overrides": [
+		{
+			"layers": [
+				{
+					"identifier": "sophie:mining/divan_dyed",
+					"tint": true
+				},
+				{
+					"identifier": "sophie:mining/divan_gold",
+					"tint": false
+				}
+			],
+			"predicate": {
+				"firmament:any": [
+					{
+						"firmament:item": "minecraft:leather_boots"
+					},
+					{
+						"firmament:item": "minecraft:leather_leggings"
+					},
+					{
+						"firmament:item": "minecraft:leather_chestplate"
+					}
+				]
+			}
+		}
+	]
+}

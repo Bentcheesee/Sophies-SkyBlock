@@ -1,0 +1,12 @@
+{
+	"item_ids": [
+		"PUMPKIN_CHESTPLATE",
+		"PUMPKIN_LEGGINGS",
+		"PUMPKIN_BOOTS"
+	],
+	"layers": [
+		{
+			"identifier": "sophie:farming/pumpkin"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"item_ids": [
+		"OLD_DRAGON_CHESTPLATE",
+		"OLD_DRAGON_LEGGINGS",
+		"OLD_DRAGON_BOOTS"
+	],
+	"layers": [
+		{
+			"identifier": "sophie:combat/old_dragon",
+			"tint": true
+		},
+		{
+			"identifier": "sophie:combat/old_dragon_overlay",
+			"tint": false
+		}
+	]
+}

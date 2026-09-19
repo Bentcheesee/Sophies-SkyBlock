@@ -1,0 +1,17 @@
+{
+	"item_ids": [
+		"FARM_SUIT_HELMET",
+		"FARM_SUIT_CHESTPLATE",
+		"FARM_SUIT_LEGGINGS",
+		"FARM_SUIT_BOOTS"
+	],
+	"layers": [
+		{
+			"identifier": "sophie:farming/farm_suit",
+			"tint": true
+		},
+		{
+			"identifier": "sophie:farming/farm_suit_overlay"
+		}
+	]
+}

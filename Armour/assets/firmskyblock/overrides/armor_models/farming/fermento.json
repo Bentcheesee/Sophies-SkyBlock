@@ -1,0 +1,33 @@
+{
+	"item_ids": [
+		"FERMENTO_CHESTPLATE",
+		"FERMENTO_LEGGINGS",
+		"FERMENTO_BOOTS"
+	],
+	"layers": [
+		{
+			"identifier": "sophie:farming/fermento"
+		},
+		{
+			"identifier": "sophie:farming/fermento_overlay"
+		}
+	],
+	"overrides": [
+		{
+			"layers": [
+				{
+					"identifier": "sophie:farming/fermento_dyed",
+					"tint": true
+				},
+				{
+					"identifier": "sophie:farming/fermento_overlay"
+				}
+			],
+			"predicate": {
+				"firmament:lore": {
+					"regex": ".* Dyed"
+				}
+			}
+		}
+	]
+}

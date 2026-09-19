@@ -1,0 +1,13 @@
+{
+	"item_ids": [
+		"EMERALD_HELMET",
+		"EMERALD_CHESTPLATE",
+		"EMERALD_LEGGINGS",
+		"EMERALD_BOOTS"
+	],
+	"layers": [
+		{
+			"identifier": "sophie:mining/emerald"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"item_ids": [
+		"STRONG_DRAGON_CHESTPLATE",
+		"STRONG_DRAGON_LEGGINGS",
+		"STRONG_DRAGON_BOOTS"
+	],
+	"layers": [
+		{
+			"identifier": "sophie:combat/strong_dragon",
+			"tint": false
+		},
+		{
+			"identifier": "sophie:combat/strong_dragon_overlay",
+			"tint": true
+		}
+	]
+}

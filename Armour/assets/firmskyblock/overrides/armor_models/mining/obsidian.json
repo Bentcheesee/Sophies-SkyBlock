@@ -1,0 +1,13 @@
+{
+	"item_ids": [
+		"OBSIDIAN_HELMET",
+		"OBSIDIAN_CHESTPLATE",
+		"OBSIDIAN_LEGGINGS",
+		"OBSIDIAN_BOOTS"
+	],
+	"layers": [
+		{
+			"identifier": "sophie:mining/obsidian"
+		}
+	]
+}

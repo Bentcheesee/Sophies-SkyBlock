@@ -1,0 +1,17 @@
+{
+	"item_ids": [
+		"HOLY_DRAGON_CHESTPLATE",
+		"HOLY_DRAGON_LEGGINGS",
+		"HOLY_DRAGON_BOOTS"
+	],
+	"layers": [
+		{
+			"identifier": "sophie:combat/dragon",
+			"tint": true
+		},
+		{
+			"identifier": "sophie:combat/holy_dragon_overlay",
+			"tint": false
+		}
+	]
+}

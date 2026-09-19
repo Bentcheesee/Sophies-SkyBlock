@@ -1,0 +1,16 @@
+{
+	"item_ids": [
+		"STARRED_ADAPTIVE_CHESTPLATE",
+		"STARRED_ADAPTIVE_LEGGINGS",
+		"STARRED_ADAPTIVE_BOOTS"
+	],
+	"layers": [
+		{
+			"identifier": "sophie:combat/dungeons/adaptive",
+			"tint": true
+		},
+		{
+			"identifier": "sophie:combat/dungeons/adaptive_star"
+		}
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"pack":{
+		"pack_format":55,
+		"supported_formats": [55,999],
+		"min_format": 55,
+		"max_format": 999,
+		"description":"§4Arming §7|§e Armour by Bentcheesee"
+	},
+	"resource_pack_id": "SOPHIE_ARMING"
+}

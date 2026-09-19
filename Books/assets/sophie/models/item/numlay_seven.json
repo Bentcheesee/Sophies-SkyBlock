@@ -1,6 +1,6 @@
 {
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "sophie:item/numlays/seven"
-    }
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "sophie:item/numlays/seven"
+	}
 }

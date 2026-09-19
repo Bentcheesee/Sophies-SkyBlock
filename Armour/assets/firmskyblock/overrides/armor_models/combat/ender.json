@@ -1,0 +1,44 @@
+{
+	"item_ids": [
+		"END_CHESTPLATE",
+		"END_LEGGINGS",
+		"END_BOOTS"
+	],
+	"layers": [
+		{
+			"identifier": "sophie:combat/ender",
+			"tint": true
+		},
+		{
+			"identifier": "sophie:combat/ender_overlay",
+			"tint": false
+		}
+	],
+	"overrides": [
+		{
+			"layers": [
+				{
+					"identifier": "sophie:combat/ender_dyed",
+					"tint": true
+				},
+				{
+					"identifier": "sophie:combat/ender_overlay",
+					"tint": false
+				}
+			],
+			"predicate": {
+				"firmament:any": [
+					{
+						"firmament:item": "minecraft:leather_boots"
+					},
+					{
+						"firmament:item": "minecraft:leather_leggings"
+					},
+					{
+						"firmament:item": "minecraft:leather_chestplate"
+					}
+				]
+			}
+		}
+	]
+}

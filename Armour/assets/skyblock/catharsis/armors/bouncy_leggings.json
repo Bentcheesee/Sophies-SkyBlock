@@ -1,0 +1,14 @@
+{
+	"model": {
+		"type": "catharsis:texture",
+		"layers": [
+			"sophie:textures/entity/equipment/humanoid_leggings/combat/dungeons/bouncy.png"
+		],
+		"tints": [
+			{
+				"type":"dye",
+				"default": -1
+			}
+		]
+	}
+}

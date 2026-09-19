@@ -1,0 +1,17 @@
+{
+	"item_ids": [
+		"PROTECTOR_DRAGON_CHESTPLATE",
+		"PROTECTOR_DRAGON_LEGGINGS",
+		"PROTECTOR_DRAGON_BOOTS"
+	],
+	"layers": [
+		{
+			"identifier": "sophie:combat/dragon",
+			"tint": true
+		},
+		{
+			"identifier": "sophie:combat/protector_dragon_overlay",
+			"tint": false
+		}
+	]
+}

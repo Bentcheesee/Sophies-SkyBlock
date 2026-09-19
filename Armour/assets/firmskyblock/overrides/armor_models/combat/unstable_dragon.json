@@ -1,0 +1,17 @@
+{
+	"item_ids": [
+		"UNSTABLE_DRAGON_CHESTPLATE",
+		"UNSTABLE_DRAGON_LEGGINGS",
+		"UNSTABLE_DRAGON_BOOTS"
+	],
+	"layers": [
+		{
+			"identifier": "sophie:combat/unstable_dragon",
+			"tint": false
+		},
+		{
+			"identifier": "sophie:combat/unstable_dragon_overlay",
+			"tint": true
+		}
+	]
+}

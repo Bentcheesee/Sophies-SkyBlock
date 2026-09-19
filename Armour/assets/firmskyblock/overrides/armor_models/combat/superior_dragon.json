@@ -1,0 +1,17 @@
+{
+	"item_ids": [
+		"SUPERIOR_DRAGON_CHESTPLATE",
+		"SUPERIOR_DRAGON_LEGGINGS",
+		"SUPERIOR_DRAGON_BOOTS"
+	],
+	"layers": [
+		{
+			"identifier": "sophie:combat/superior_dragon",
+			"tint": true
+		},
+		{
+			"identifier": "sophie:combat/superior_dragon_overlay",
+			"tint": false
+		}
+	]
+}

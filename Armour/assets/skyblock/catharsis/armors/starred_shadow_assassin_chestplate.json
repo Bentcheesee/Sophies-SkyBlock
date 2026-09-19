@@ -1,0 +1,15 @@
+{
+	"model": {
+		"type": "catharsis:texture",
+		"layers": [
+			"sophie:textures/entity/equipment/humanoid/combat/dungeons/shadow_ass.png",
+			"sophie:textures/entity/equipment/humanoid/combat/dungeons/shadow_ass_star_overlay.png"
+		],
+		"tints": [
+			{
+				"type":"dye",
+				"default": -1
+			}
+		]
+	}
+}

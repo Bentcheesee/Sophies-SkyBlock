@@ -1,0 +1,10 @@
+{
+	"item_ids": [
+		"FARMER_BOOTS"
+	],
+	"layers": [
+		{
+			"identifier": "sophie:farming/farmer_boots"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"model": {
+		"type": "minecraft:condition",
+		"property": "catharsis:data_type",
+		"data_type": "has_dye_fallback",
+		"on_true": {
+			"type": "catharsis:texture",
+			"layers": [
+				"sophie:textures/entity/equipment/humanoid_leggings/farming/rabbit_dyed.png"
+			],
+			"tints": [
+				{
+					"type":"dye",
+					"default": -1
+				}
+			]
+		},
+		"on_false": {
+			"type": "catharsis:texture",
+			"layers": [
+				"sophie:textures/entity/equipment/humanoid_leggings/farming/rabbit.png"
+			]
+		}
+	}
+}

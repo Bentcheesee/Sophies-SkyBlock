@@ -1,0 +1,17 @@
+{
+	"item_ids": [
+		"STARRED_SHADOW_ASSASSIN_CHESTPLATE",
+		"STARRED_SHADOW_ASSASSIN_LEGGINGS",
+		"STARRED_SHADOW_ASSASSIN_BOOTS"
+	],
+	"layers": [
+		{
+			"identifier": "sophie:combat/dungeons/shadow_ass",
+			"tint": false
+		},
+		{
+			"identifier": "sophie:combat/dungeons/shadow_ass_star_overlay",
+			"tint": false
+		}
+	]
+}

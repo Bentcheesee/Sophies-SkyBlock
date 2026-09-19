@@ -1,0 +1,14 @@
+{
+	"item_ids": [
+		"BOUNCY_HELMET",
+		"BOUNCY_CHESTPLATE",
+		"BOUNCY_LEGGINGS",
+		"BOUNCY_BOOTS"
+	],
+	"layers": [
+		{
+			"identifier": "sophie:combat/dungeons/bouncy",
+			"tint": true
+		}
+	]
+}

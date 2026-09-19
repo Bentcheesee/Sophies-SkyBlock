@@ -1,0 +1,31 @@
+{
+	"item_ids": [
+		"CACTUS_HELMET",
+		"CACTUS_CHESTPLATE",
+		"CACTUS_LEGGINGS",
+		"CACTUS_BOOTS"
+	],
+	"layers": [
+		{
+			"identifier": "sophie:farming/cactus"
+		}
+	],
+	"overrides": [
+		{
+			"layers": [
+				{
+					"identifier": "sophie:farming/cactus_dyed",
+					"tint": true
+				},
+				{
+					"identifier": "sophie:farming/cactus_dyed_overlay"
+				}
+			],
+			"predicate": {
+				"firmament:lore": {
+					"regex": ".* Dyed"
+				}
+			}
+		}
+	]
+}

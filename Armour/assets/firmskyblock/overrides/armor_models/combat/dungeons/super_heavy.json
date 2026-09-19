@@ -1,0 +1,18 @@
+{
+	"item_ids": [
+		"SUPER_HEAVY_HELMET",
+		"SUPER_HEAVY_CHESTPLATE",
+		"SUPER_HEAVY_LEGGINGS",
+		"SUPER_HEAVY_BOOTS"
+	],
+	"layers": [
+		{
+			"identifier": "sophie:combat/dungeons/heavy_super",
+			"tint": true
+		},
+		{
+			"identifier": "sophie:combat/dungeons/heavy_super_overlay",
+			"tint": false
+		}
+	]
+}

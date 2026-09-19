@@ -1,0 +1,17 @@
+{
+	"item_ids": [
+		"YOUNG_DRAGON_CHESTPLATE",
+		"YOUNG_DRAGON_LEGGINGS",
+		"YOUNG_DRAGON_BOOTS"
+	],
+	"layers": [
+		{
+			"identifier": "sophie:combat/dragon",
+			"tint": true
+		},
+		{
+			"identifier": "sophie:combat/holy_dragon_overlay",
+			"tint": false
+		}
+	]
+}
