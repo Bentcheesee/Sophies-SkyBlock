@@ -4,7 +4,8 @@
 		"property": "catharsis:data_type",
 		"data_type": "has_dye_fallback",
 		"on_true": {
-			"type": "catharsis:texture",
+			"type": "catharsis:model",
+			"model": "sophie:geo_models/rabbit_head_hat.geo.json",
 			"layers": [
 				"sophie:textures/entity/equipment/humanoid/farming/rabbit_dyed.png",
 				"sophie:textures/entity/equipment/humanoid/farming/rabbit_dyed_overlay.png"
@@ -17,7 +18,8 @@
 			]
 		},
 		"on_false": {
-			"type": "catharsis:texture",
+			"type": "catharsis:model",
+			"model": "sophie:geo_models/rabbit_head_hat.geo.json",
 			"layers": [
 				"sophie:textures/entity/equipment/humanoid/farming/rabbit.png"
 			]
