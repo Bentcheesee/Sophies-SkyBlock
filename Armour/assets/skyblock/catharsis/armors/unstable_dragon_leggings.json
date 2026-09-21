@@ -2,8 +2,8 @@
 	"model": {
 		"type": "catharsis:texture",
 		"layers": [
-			"sophie:textures/entity/equipment/humanoid/combat/unstable_dragon_overlay.png",
-			"sophie:textures/entity/equipment/humanoid/combat/unstable_dragon.png"
+			"sophie:textures/entity/equipment/humanoid_leggings/combat/unstable_dragon_overlay.png",
+			"sophie:textures/entity/equipment/humanoid_leggings/combat/unstable_dragon.png"
 		],
 		"tints": [
 			{
