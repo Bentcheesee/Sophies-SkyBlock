@@ -1,5 +1,5 @@
 {
-	"parent": "firmskyblock:item/delicate__0",
+	"parent": "minecraft:item/generated",
 	"textures": {
 		"layer2": "sophie:item/numlays/five"
 	}
