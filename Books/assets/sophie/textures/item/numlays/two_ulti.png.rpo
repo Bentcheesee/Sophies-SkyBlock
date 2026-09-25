@@ -1,0 +1,4 @@
+{
+	condition: "numericalBooks",
+	fallback: "assets/sophie/textures/item/numlays/empty.png"
+}

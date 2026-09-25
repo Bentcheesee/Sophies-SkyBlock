@@ -1,8 +1,8 @@
 {
-	"parent": "minecraft:item/generated",
+	"parent": "firmskyblock:item/template_ulti_book",
 	"textures": {
-		"layer0": "sophie:item/enchant_books/book_equipment",
+		"layer0": "sophie:item/enchant_books/book_equipment_ulti",
 		"layer1": "sophie:item/enchant_books/equipment/ulti_the_one",
-		"layer2": "sophie:item/numlays/four"
+		"layer2": "sophie:item/numlays/empty"
 	}
 }

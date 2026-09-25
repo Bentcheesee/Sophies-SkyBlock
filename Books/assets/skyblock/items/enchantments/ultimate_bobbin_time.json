@@ -29,5 +29,6 @@
 			"type": "minecraft:model",
 			"model": "firmskyblock:item/ultimate_bobbin_time__0"
 		}
-	}
+	},
+	"oversized_in_gui": true
 }

@@ -1,7 +1,7 @@
 {
-	"parent": "minecraft:item/generated",
+	"parent": "firmskyblock:item/template_ulti_book",
 	"textures": {
-		"layer0": "sophie:item/enchant_books/book_armor",
+		"layer0": "sophie:item/enchant_books/book_armor_ulti",
 		"layer1": "sophie:item/enchant_books/armor/ulti_sunset",
 		"layer2": "sophie:item/numlays/empty"
 	}
