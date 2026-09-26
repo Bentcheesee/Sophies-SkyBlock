@@ -22,5 +22,6 @@
 			"type": "minecraft:model",
 			"model": "firmskyblock:item/ultimate_habanero_tactics__0"
 		}
-	}
+	},
+	"oversized_in_gui": true
 }

@@ -15,5 +15,6 @@
 			"type": "minecraft:model",
 			"model": "firmskyblock:item/ultimate_one_for_all__0"
 		}
-	}
+	},
+	"oversized_in_gui": true
 }

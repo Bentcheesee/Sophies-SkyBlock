@@ -78,5 +78,6 @@
 			"type": "minecraft:model",
 			"model": "firmskyblock:item/ultimate_first_impression__0"
 		}
-	}
+	},
+	"oversized_in_gui": true
 }
