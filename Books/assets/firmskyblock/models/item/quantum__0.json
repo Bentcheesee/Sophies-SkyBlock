@@ -3,6 +3,6 @@
 	"textures": {
 		"layer0": "sophie:item/enchant_books/book_equipment",
 		"layer1": "sophie:item/enchant_books/equipment/quantum",
-		"layer2": "sophie:item/numlays/three"
+		"layer2": "sophie:item/numlays/empty"
 	}
 }

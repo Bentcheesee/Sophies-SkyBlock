@@ -9,7 +9,7 @@
 			"legacy",
 			"vanilla"
 		],
-		foragingBooks: false,
+		ultimateBooks: true,
 		numericalBooks: true
 	}
 }
