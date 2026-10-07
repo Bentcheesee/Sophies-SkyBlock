@@ -1,4 +1,6 @@
 {
-	condition: "!foragingBooks",
-	fallback: "assets/firmskyblock/models/item/foraging/ultimate_missile.json"
+	condition: "ultimateBooks",
+	fallback: [
+		"assets/firmskyblock/models/item/ultimate/missile.json"
+	]
 }

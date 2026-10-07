@@ -1,0 +1,4 @@
+{
+	condition: "ultimateBooks",
+	fallback: "assets/firmskyblock/models/item/ultimate/no_pain_no_gain.json"
+}

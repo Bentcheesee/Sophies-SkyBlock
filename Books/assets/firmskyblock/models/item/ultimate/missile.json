@@ -2,7 +2,7 @@
 	"parent": "minecraft:item/generated",
 	"textures": {
 		"layer0": "sophie:item/enchant_books/book_foraging",
-		"layer1": "sophie:item/enchant_books/tools/arcane",
+		"layer1": "sophie:item/enchant_books/tools/ulti_missle_small",
 		"layer2": "sophie:item/numlays/empty"
 	}
 }

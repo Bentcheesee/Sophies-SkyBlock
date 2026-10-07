@@ -1,0 +1,9 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "sophie:item/enchant_books/book_weaponry",
+		"layer1": "sophie:item/enchant_books/weaponry/ulti_chimera_small",
+		"layer2": "sophie:item/enchant_books/weaponry/ulti_soul_eater_small",
+		"layer3": "sophie:item/numlays/empty"
+	}
+}

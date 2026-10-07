@@ -1,0 +1,4 @@
+{
+	condition: "ultimateBooks",
+	fallback: "assets/firmskyblock/models/item/ultimate/soul_eater.json"
+}
