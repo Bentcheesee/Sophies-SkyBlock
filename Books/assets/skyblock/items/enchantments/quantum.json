@@ -4,6 +4,20 @@
 		"property": "catharsis:enchanted_book_level",
 		"entries": [
 			{
+				"threshold": 1,
+				"model": {
+					"type": "minecraft:model",
+					"model": "firmskyblock:item/quantum__1"
+				}
+			},
+			{
+				"threshold": 2,
+				"model": {
+					"type": "minecraft:model",
+					"model": "firmskyblock:item/quantum__2"
+				}
+			},
+			{
 				"threshold": 3,
 				"model": {
 					"type": "minecraft:model",
