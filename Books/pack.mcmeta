@@ -2,11 +2,11 @@
 	"pack":{
 		"min_format": 88,
 		"max_format": 900,
-		"description":"§cThe Ultimate Update\n§eBooks by §bBentcheesee"
+		"description":"§bFinding Magic\n§eBooks by §bBentcheesee"
 	},
 	"resource_pack_id": "SOPHIE_BOOKS",
 	"catharsis:pack/v1": {
 		"id": "sophie_books",
-		"version": "2.2.0"
+		"version": "2.3.0"
 	}
 }

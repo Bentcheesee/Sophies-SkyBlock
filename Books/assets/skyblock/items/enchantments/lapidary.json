@@ -37,6 +37,13 @@
 					"type": "minecraft:model",
 					"model": "firmskyblock:item/lapidary__5"
 				}
+			},
+			{
+				"threshold": 6,
+				"model": {
+					"type": "minecraft:model",
+					"model": "firmskyblock:item/lapidary__6"
+				}
 			}
 		],
 		"fallback": {

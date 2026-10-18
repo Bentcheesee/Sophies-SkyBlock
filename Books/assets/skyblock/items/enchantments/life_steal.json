@@ -37,6 +37,13 @@
 					"type": "minecraft:model",
 					"model": "firmskyblock:item/life_steal__5"
 				}
+			},
+			{
+				"threshold": 6,
+				"model": {
+					"type": "minecraft:model",
+					"model": "firmskyblock:item/life_steal__6"
+				}
 			}
 		],
 		"fallback": {
