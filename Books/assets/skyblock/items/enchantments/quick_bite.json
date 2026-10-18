@@ -37,6 +37,13 @@
 					"type": "minecraft:model",
 					"model": "firmskyblock:item/quick_bite__5"
 				}
+			},
+			{
+				"threshold": 6,
+				"model": {
+					"type": "minecraft:model",
+					"model": "firmskyblock:item/quick_bite__6"
+				}
 			}
 		],
 		"fallback": {

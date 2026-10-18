@@ -1,4 +1,7 @@
 {
 	condition: "animatedTextures",
-	fallback: "assets/sophie/textures/item/enchant_books/weaponry/gravity_alt.png"
+	fallback: [
+		"assets/sophie/textures/item/enchant_books/weaponry/dragon_hunter.png",
+		"assets/sophie/textures/item/enchant_books/weaponry/gravity_still.png"
+	]
 }

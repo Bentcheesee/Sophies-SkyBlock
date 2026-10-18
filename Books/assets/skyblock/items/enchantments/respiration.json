@@ -30,6 +30,13 @@
 					"type": "minecraft:model",
 					"model": "firmskyblock:item/respiration__4"
 				}
+			},
+			{
+				"threshold": 5,
+				"model": {
+					"type": "minecraft:model",
+					"model": "firmskyblock:item/respiration__5"
+				}
 			}
 		],
 		"fallback": {
