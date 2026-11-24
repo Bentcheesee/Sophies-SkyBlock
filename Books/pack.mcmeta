@@ -2,11 +2,11 @@
 	"pack":{
 		"min_format": 88,
 		"max_format": 900,
-		"description":"§bFinding Magic..§3again...\n§eBooks by §bBentcheesee"
+		"description":"§cButchering §7textures\n§eBooks by §bBentcheesee"
 	},
 	"resource_pack_id": "SOPHIE_BOOKS",
 	"catharsis:pack/v1": {
 		"id": "sophie_books",
-		"version": "2.3.1"
+		"version": "2.3.2"
 	}
 }
