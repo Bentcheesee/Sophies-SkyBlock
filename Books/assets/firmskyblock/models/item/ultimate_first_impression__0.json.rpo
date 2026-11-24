@@ -1,6 +1,0 @@
-{
-	condition: "ultimateBooks",
-	fallback: [
-		"assets/firmskyblock/models/item/ultimate/first_impression.json"
-	]
-}

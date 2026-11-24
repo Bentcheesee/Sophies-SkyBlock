@@ -1,6 +1,0 @@
-{
-	condition: "!bookStyle.legacy",
-	fallback: [
-		"assets/sophie/textures/item/enchant_books/emblem_intelligence_legacy_ulti.png"
-	]
-}

@@ -1,6 +1,0 @@
-{
-	condition: "!bookStyle.legacy",
-	fallback: [
-		"assets/sophie/textures/item/enchant_books/multi/ulti_fatal_tempo_legacy_small.png"
-	]
-}
